@@ -1,0 +1,17 @@
+.p1{
+  background-color:pink;
+  color: blue;
+  font-family: serif;
+  font-size: 12pt;
+}
+
+.p2{
+  background-color: green;
+  text-decoration-color: white;
+  font-family: fantasy;
+  font-size: 14pt;
+}
+
+h1{
+  text-align: center;
+}
